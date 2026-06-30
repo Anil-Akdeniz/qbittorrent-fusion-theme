@@ -1,0 +1,18 @@
+qBittorrent Fusion theme
+Copyright (c) 2026 Anil Akdeniz
+Licensed under the MIT License (see LICENSE).
+
+This project includes third-party assets:
+
+Lucide
+  The icons in themes/*/icons/ (except the tray and RSS icons noted below) are
+  derived from Lucide and recolored for each variant.
+  Licensed under the ISC License.
+  https://lucide.dev (Copyright (c) Lucide Contributors)
+
+qBittorrent fluent theme
+  The tray icons (qbittorrent-tray.svg, qbittorrent-tray-dark.svg,
+  qbittorrent-tray-light.svg) and the RSS icons (rss_read_article.svg,
+  rss_unread_article.svg) originate from the qBittorrent fluent theme.
+  Licensed under the MIT License.
+  https://github.com/witalihirsch/qBitTorrent-fluent-theme

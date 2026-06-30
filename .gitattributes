@@ -1,0 +1,7 @@
+# Normalize line endings to LF, in the repository and on checkout, so gen.sh
+# stays runnable on Unix and the SVG/QSS/JSON assets remain consistent.
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.qbtheme binary

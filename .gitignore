@@ -1,0 +1,7 @@
+# Build output (machine-specific absolute paths; produced by gen.sh)
+/dist/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
